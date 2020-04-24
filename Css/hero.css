@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	font-family: Helvetica,Arial, sans-serif;
+	line-height: 60px;
+}
+
+header{
+	background-color: #0000FF;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1,h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+header h1{
+	color: gold;
+	font-size: 50px
+
+}
+
+header img{
+	border-radius: 00px;
+    width: 900px;
+    border: 20px solid gold;
+}
+
+main{
+	max-width: 1500px;
+	margin: 0 auto;
+	font-size: 50px;
+	padding: 0 20px;
+	background-color: gold;
+}
+main img{
+	max-width: 100%;
+	align-content: center
+}
+
+h2{
+	color: green;
+	font-size: 60px;
+	margin: 40px 0 10px;
+}
+p{
+	font-size: 55px;
+}
+
+footer{
+	background-color: #0000FF;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: gold;
+}
+footer p{
+	margin: 0px;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	font-size: 30px;
+}
